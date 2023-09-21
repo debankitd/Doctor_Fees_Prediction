@@ -59,7 +59,14 @@ This project aims to create a web interface that allows users to predict doctor 
 
 **8. Model Evaluation:** Evaluated the ensemble model using appropriate metrics such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE) to measure prediction accuracy.
 
+![Screenshot 2023-08-09 234117](https://github.com/ankitpal154/Doctor_fees_prediction_ML_project/assets/139064260/0f0c70f0-fe2b-45fd-b63e-481f91cf0311)
+
+
+![Screenshot 2023-08-09 234154](https://github.com/ankitpal154/Doctor_fees_prediction_ML_project/assets/139064260/799feea6-a700-480b-b23c-5d07a9ed91ce)
+
+
 **9. Web App Development:** Developed a user-friendly web application using Flask, HTML, and CSS to offer an intuitive interface for users to input parameters.
+
 
 ## 🏥 Doctor Fee Prediction Web application
 
