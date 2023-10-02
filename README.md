@@ -31,9 +31,43 @@ This project aims to create a web interface that allows users to predict doctor 
 
 ![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/65b3bd60-8e70-4cd7-8581-237538fe8f68)
 
+###  o Data Cleaning
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/27fe303e-b844-4776-be58-1ad715bb77e4)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/9aebeee3-14af-4dea-9ad8-d3cd77d128f5)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/71d71fd6-14b2-40f1-9f6a-a4af1e621ee5)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/c5caa5c0-d890-4bbf-a474-a77a35721a6f)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/e23fbd18-79db-4765-9614-47696c9979e6)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/d0afd872-17fd-4af5-a402-4acb4a41770e)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/2c9016ef-1728-499f-a030-4a3fe6f4e35a)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/6edd26a6-dcf1-4f57-abb4-378c778c292d)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/4e216929-34e3-4107-884f-ec60758416c5)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/0e249b45-9ad3-4e3c-aa58-f24ee95415ee)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/4c5f73b2-b1fa-4c10-a03a-bf629c229825)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/facb1f3e-7857-428f-9872-b7ffad3bda4b)
 
 
-## Findings from the Doctor Fee Prediction Project 🧪
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/c7cb8fc2-56c8-4957-974d-377511cb2a07)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/54d5f746-3c64-492d-978a-f6745754a5d0)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/be834aa7-a48e-444e-9b70-34cb7f2781be)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/408a82d6-8600-4316-8cf3-2a74b226ad49)
+
+
+## EDA and Analysis from the Doctor Fee Prediction Project 🧪
 
 - According to the Practo dataset, Bangalore has the highest number of doctors.
 
