@@ -9,12 +9,30 @@ This project aims to create a web interface that allows users to predict doctor 
 | **Dataset Folder** | This folder provides data state wise in csv format |
 | **Python File** | This contains the .ipynb file of the analysis for Data Extract, Data cleaning, EDA and ML Models.  |
 | **HTML File** | This contains the .html file for User Interface.  |
+| **PowerPointPresentation** | This file provides the PowerPoint presentation which contains all the major insights and conclusions. |
 
 <br>
 
 <p align="center"><img src="https://i.pinimg.com/originals/13/66/c9/1366c95f8c249b8422d2caaae287cb63.gif" width="400" ></p>
 
-   
+
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Data Preperation
+
+###  o Web Scrapping 
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/fbb76d48-03d8-4611-a815-8569f1cac037)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/67952d0b-fbf1-45a0-a66c-426ec2e1cfa7)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/337a4b84-07fe-4476-b2e7-72ff52f465dc)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/a4a31fc5-dce9-44a7-9386-f60a146a3971)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/65b3bd60-8e70-4cd7-8581-237538fe8f68)
+
+
+
 ## Findings from the Doctor Fee Prediction Project 🧪
 
 - According to the Practo dataset, Bangalore has the highest number of doctors.
