@@ -117,6 +117,11 @@ This project aims to create a web interface that allows users to predict doctor 
 ![Screenshot 2023-08-09 234154](https://github.com/ankitpal154/Doctor_fees_prediction_ML_project/assets/139064260/799feea6-a700-480b-b23c-5d07a9ed91ce)
 
 
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/92a30600-d1eb-40cb-94ca-bf77f3f5afef)
+
+![image](https://github.com/debankitd/Doctor_Fees_Prediction/assets/96534823/d7fcfbb4-bb09-41da-ac96-611c02b62e5d)
+
+
 **9. Web App Development:** Developed a user-friendly web application using Flask, HTML, and CSS to offer an intuitive interface for users to input parameters.
 
 
